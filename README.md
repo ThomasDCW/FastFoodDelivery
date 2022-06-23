@@ -1,8 +1,3 @@
-# template-react-vite-js
+# Reproduction d'une maquette Figma en React
 
-Template d'une application react-vite en JS
-
-Pour l'utiliser, fork le repo, utilise le template, n'oublie pas le npm install ;)
-Pour lancer ton app -> npm run start
-
-Enjoy :) 
+- https://www.figma.com/file/cgCNg0IsgJVT9W9W5O3YDd/Food-delivery-web-(Community)?node-id=1%3A112
