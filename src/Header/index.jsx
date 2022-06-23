@@ -25,7 +25,7 @@ export default function Header() {
     <SHeader>
       <ul>
         {labels.map((label) => {
-          return <li key={label.id}>{label.title}</li>;
+          return <a key={label.id}>{label.title}</a>;
         })}
       </ul>
       <SearchBar />
