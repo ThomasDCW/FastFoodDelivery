@@ -1,3 +1,5 @@
+import Card from './Card';
+import Gallery from './Gallery';
 import Header from './Header';
 import GlobalStyle from './style';
 
@@ -12,6 +14,7 @@ function App() {
           <h2>Delivery</h2>
         </div>
       </section>
+      <Gallery />
     </GlobalStyle>
   );
 }
